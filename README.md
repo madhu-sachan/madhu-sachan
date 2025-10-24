@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**madhu-sachan/madhu-sachan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Developer** with over **9 years of experience** in building robust and scalable applications. I have strong expertise in both frontend and backend development, with the last 5 years focused primarily on backend engineering.
 
-Here are some ideas to get you started:
+## 🚀 Key Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend Development
+- .NET, C#, ASP.NET Core
+- REST APIs
+- Entity Framework
+- Microservices Architecture
+
+### Frontend Development
+- React, Angular
+- TypeScript, JavaScript
+- HTML5, CSS3
+
+### Cloud & DevOps
+- Microsoft Azure
+- Azure DevOps
+- CI/CD Pipelines
+- Docker
+- Git
+
+### Databases
+- SQL Server
+- PostgreSQL
+- MongoDB
